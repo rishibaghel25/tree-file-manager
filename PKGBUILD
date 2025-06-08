@@ -9,7 +9,7 @@ license=('MIT')
 depends=('python' 'python-pyqt5' 'python-psutil')
 makedepends=('python-setuptools')
 source=("$pkgname-$pkgver.tar.gz::$url/archive/v$pkgver.tar.gz")
-sha256sums=("tree-file-manager-1.0.0.tar.gz") 
+sha256sums=("d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed  tree-file-manager-0.1.0.tar.gz") 
 
 build() {
     cd "$pkgname-$pkgver"
