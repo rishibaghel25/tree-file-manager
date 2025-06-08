@@ -1,0 +1,2 @@
+[console_scripts]
+tree-file-manager = tree_file_manager.main:main
