@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Tree File Manager
+Comment=A modern file manager with tree view
+Exec=tree-file-manager
+Icon=tree-file-manager
+Terminal=false
+Type=Application
+Categories=System;FileManager;
+StartupNotify=true
+MimeType=inode/directory;
+Keywords=file;manager;explorer;folder;tree;
