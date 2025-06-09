@@ -2,7 +2,7 @@
 
 A modern, lightweight file manager with tree view designed specifically for Linux systems, particularly Arch Linux. Features a clean interface with directory tree navigation on the left and file operations on the right.
 
-![Tree File Manager](./icon/tree_file_manager)
+![Tree File Manager](/tree_file_manager/icons/tree_file_manager.png)
 
 ## Features
 
